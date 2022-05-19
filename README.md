@@ -1,3 +1,8 @@
+# videos
+
+The application get some term from search bar, makes request to youtube api and create a page with list of videos.
+It works on function-based react components. Use axios to make a request to youtube api. And demonstrate how to work with function-based react components and hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
